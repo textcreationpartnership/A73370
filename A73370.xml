@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The post of vvare with a packet full of strange newes out of diuers countries. To a pleasant new tune.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73370</idno><idno type="EEBO-CITATION">99898396</idno>
+  <idno type="VID">173466</idno>
+  <idno type="EEBO-PROQUEST">2248522962</idno>
+  <idno type="STC">STC 25063</idno>
+  <idno type="STC">ESTC S125688</idno>
+  <idno type="STC">EBB 20095</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99898396e"/>
+            <note>(EEBO-TCP ; phase 2, no. A73370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2052:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The post of vvare with a packet full of strange newes out of diuers countries. To a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by G. Ppurslowe] for I. Trundle,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1622?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and date of publication from STC.</note>
+                  <note>Verse - "Away, away; make no delay,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">War poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:173466:1"/>
+            <head>The Post of VVare: With a Packet full of strange Newes out of diuers Countries.</head>
+            <opener>To a pleasant new Tune.</opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a male figure on a horse blowing a horn</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AWay, Away; make no delay,</l>
+               <l>this Newes requireth hast;</l>
+               <l>Bay, mount thy Mare, post hence to <hi>Ware,</hi>
+               </l>
+               <l>thou canst not ride too fast;</l>
+               <l>And as thou rid'st through euery Towne,</l>
+               <l>blow forth this liuely blast:</l>
+               <l>All Cittizens Wiues</l>
+               <l>Are grown constant and sound,</l>
+               <l>And say, That Truth doth abound,</l>
+               <l>In euery Taylors</l>
+               <l>Shop to bee found.</l>
+            </lg>
+            <lg>
+               <l>I'th Stréet of <hi>Ware,</hi> good Boy, declare,</l>
+               <l>we shall haue money store,</l>
+               <l>The <hi>Hollanders</hi> heere did tast our Béere,</l>
+               <l>while they could drinke no more;</l>
+               <l>Some lost their gold, which struck thē cold</l>
+               <l>though they were hot before:</l>
+               <l>And vexing for anger,</l>
+               <l>their money to léese,</l>
+               <l>They dranke old Sacke <hi>Vpse-freeze;</hi>
+               </l>
+               <l>And lustily eate vp</l>
+               <l>their red-coted Chéese.</l>
+            </lg>
+            <lg>
+               <l>Relate againe, this Newes from <hi>Spaine,</hi>
+               </l>
+               <l>that they are wondrous rich,</l>
+               <l>The Fleet of late, hath helpt their State,</l>
+               <l>by bringing home so much;</l>
+               <l>The <hi>States</hi> and <hi>Spaine,</hi> will too't againe;</l>
+               <l>the Wars were nere none such;</l>
+               <l>And <hi>Spinola</hi> vowes,</l>
+               <l>he no longer will stay,</l>
+               <l>But raise his men by breake of day;</l>
+               <l>Héele burne vp their Forts,</l>
+               <l>and goe marching away.</l>
+            </lg>
+            <lg>
+               <l>Say, <hi>France</hi> with peace hath great increase</l>
+               <l>from euery Country néere,</l>
+               <l>The Boores betimes renew their Vines,</l>
+               <l>which lately spoyled were,</l>
+               <l>And some suppose, while Vinyards growe</l>
+               <l>they make a shift with Béers:</l>
+               <l>And tell them the next time</l>
+               <l>thou comst thither Post,</l>
+               <l>Thou shalt bring news frō <hi>Englands</hi> Coast</l>
+               <l>For that is the Newes,</l>
+               <l>that concernes vs all most.</l>
+            </lg>
+            <lg>
+               <l>Away againe, Post hence amaine,</l>
+               <l>and stranger Newes declare,</l>
+               <l>To euery Towne, both wise and Clowne,</l>
+               <l>that hath abiding there,</l>
+               <l>For certaine tell, that all is well,</l>
+               <l>and bid them banish feare;</l>
+               <l>Say, Courtiers are honest,</l>
+               <l>they lead vertuous liues,</l>
+               <l>The one by the other louingly thriues,</l>
+               <l>And all haue gi'n ore</l>
+               <l>to wrong Citizens Wiues.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:173466:1"/>
+               <head>The Second Part.</head>
+               <opener>To the same Tune.</opener>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a large house</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of a male figure</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THe Country large, maintain their charge</l>
+                  <l>and good Hospitality vse,</l>
+                  <l>The Farmers bate of their hie rate,</l>
+                  <l>and do great Measures choose;</l>
+                  <l>The Land-lords they, at Quarter day</l>
+                  <l>doe Fines or Bribes refuse;</l>
+                  <l>The poore well are clothed,</l>
+                  <l>and victuals haue store,</l>
+                  <l>The trades ar increasd which late did deplore,</l>
+                  <l>And Constables scorne</l>
+                  <l>for to fauour a Whore.</l>
+               </lg>
+               <lg>
+                  <l>A Soldier true, come ouer new,</l>
+                  <l>may quietly to his friends passe,</l>
+                  <l>Without being staid, no wayes are laid,</l>
+                  <l>by any inquisitiue Asse,</l>
+                  <l>And Carriers sing, they'l neuer bring</l>
+                  <l>London a broken Glasse;</l>
+                  <l>The Knights and the Gentry,</l>
+                  <l>each keeps his house,</l>
+                  <l>The neighbors welcome to Brawn &amp; Souse,</l>
+                  <l>And Beggers so proud,</l>
+                  <l>that they all hate a Louse.</l>
+               </lg>
+               <lg>
+                  <l>All Citty Dames maintaine their fames,</l>
+                  <l>their pride they doe impayre,</l>
+                  <l>The rich each day their money lay,</l>
+                  <l>
+                     <hi>Pauls</hi> Stéeple vp to reare;</l>
+                  <l>Each Prisoners Fee discharg'd shall be,</l>
+                  <l>to quit them from their care;</l>
+                  <l>The Bride-wells are alter'd,</l>
+                  <l>and Hospitalls made,</l>
+                  <l>And maymed Soldiers therein laid.</l>
+                  <l>And euery Batchelor</l>
+                  <l>marries a Mayd.</l>
+               </lg>
+               <lg>
+                  <l>By Merchants rich is giuen much,</l>
+                  <l>to Bankrupts newly decay'd,</l>
+                  <l>The Merchants store, shall help the poore,</l>
+                  <l>that want, to set vp their Trade;</l>
+                  <l>From <hi>Lud-gate</hi> stones none shal heare menes</l>
+                  <l>which haue so long beene made;</l>
+                  <l>The Vsurers, fiue</l>
+                  <l>in the hundred will take,</l>
+                  <l>Promooter all shall Soldiers make,</l>
+                  <l>And Whores are turnd honest,</l>
+                  <l>for conscience sake.</l>
+               </lg>
+               <lg>
+                  <l>More mightst thou say my fine-tongu'd Boy,</l>
+                  <l>of this our happy Newes,</l>
+                  <l>If any grieue for to beleeue,</l>
+                  <l>I prethée bid them choose;</l>
+                  <l>And those that will to <hi>London</hi> still</l>
+                  <l>these obiects come and peruse;</l>
+                  <l>Where you shall find honestly</l>
+                  <l>all that I say,</l>
+                  <l>Prouide, make hast, vse no delay:</l>
+                  <l>For all this shall be</l>
+                  <l>betwixt this and Doomes-day.</l>
+               </lg>
+            </div>
+            <trailer>
+               <hi>FINIS. <hi>The Post.</hi>
+               </hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>I. Trundle.</hi>
+            </p>
+            <pb facs="tcp:173466:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173466:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
